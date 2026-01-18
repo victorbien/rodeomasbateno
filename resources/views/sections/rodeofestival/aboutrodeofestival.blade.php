@@ -1,0 +1,6 @@
+<div class="container">
+	<div class="text-center">
+		<h2 class="section-heading text-uppercase">About The Philippine Rodeo Finals</h2>
+		<h3 class="section-subheading-about-us">The <b>Philippine Rodeo Finals</b> is the country's premier rodeo competition, organized and managed by Rodeo Masbateño Inc. (RMI) to showcase the finest cowboys and cowgirls from across the Philippines. Held annually in Masbate, the Rodeo Capital of the Philippines, the Finals brings together top performers from regional and provincial rodeo events to compete in thrilling competitions that reflect traditional ranch skills. Contestants face high-stakes challenges in Bull Riding, Cattle Wrestling, Cattle Lassoing, Carambola, Bull Whipping, and the Load Carrying Relay, each testing strength, skill, and precision. Through strict standards in safety, fairness, and animal welfare, the Philippine Rodeo Finals celebrates excellence in rodeo while preserving and promoting Masbate's rich cultural heritage as the heart of the country's rodeo tradition.</h3>
+	</div>
+</div>
