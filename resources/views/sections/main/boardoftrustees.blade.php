@@ -102,7 +102,7 @@
 				<h4 class="text-light">Judge Arturo Clemente B. Revil</h4>
 			</div>
 		</div>
-		<div class="col-lg-4">
+		<div class="col-lg-12">
 			<div class="team-member">
 				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/EGLIN SIA.jpg" alt="..." />
 				<h4 class="text-light">Eglin Sia</h4>

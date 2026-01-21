@@ -29,7 +29,10 @@
 				<tr>
 					<td>3</td>
 					<td>Waiver/Quitclaim</td>
-					<td>Download the official Waiver / Quitclaim form required for all participants of the Philippine Rodeo Finals.</td>
+					<td>
+						<p>Download the official Waiver / Quitclaim form required for all participants of the Philippine Rodeo Finals.</p>
+						<p><b><u>NOTE</u>: Please bring the original notarized copy of the Waiver/Quitclaim and submit it to the Secretariat upon arrival in Masbate.</b></p>
+					</td>
 					<td class="align-middle"><a href="assets/files/WaiverQuitclaim_2026.docx" class="btn btn-success">Download</a></td>
 				</tr>
 				<tr>
