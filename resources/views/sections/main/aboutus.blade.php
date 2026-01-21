@@ -29,7 +29,7 @@
             </div>
         </li>
         <li>
-            <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/IMG_4236.jpg" alt="..." /></div>
+            <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/IMG_4236.JPG" alt="..." /></div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
                     <h4>Present</h4>

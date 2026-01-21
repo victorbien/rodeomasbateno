@@ -56,12 +56,6 @@
 		</div>
 		<div class="col-lg-4">
 			<div class="team-member">
-				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/IGMEDIO CAMPOSANO.jpg" alt="..." />
-				<h4 class="text-light">Judge Igmedio Emilio F. Camposano</h4>
-			</div>
-		</div>
-		<div class="col-lg-4">
-			<div class="team-member">
 				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/CYNTHIA CARANDANG.jpg" alt="..." />
 				<h4 class="text-light">Cynthia L. Carandang</h4>
 			</div>
@@ -110,32 +104,14 @@
 		</div>
 		<div class="col-lg-4">
 			<div class="team-member">
-				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/ROSANNA RAMOS.jpg" alt="..." />
-				<h4 class="text-light">Rosanna R. Ramos</h4>
-			</div>
-		</div>
-		<div class="col-lg-4">
-			<div class="team-member">
 				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/ARMIN REVIL.jpg" alt="..." />
 				<h4 class="text-light">Judge Arturo Clemente B. Revil</h4>
 			</div>
 		</div>
 		<div class="col-lg-4">
 			<div class="team-member">
-				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/MANUEL SESE.jpg" alt="..." />
-				<h4 class="text-light">Judge Manuel V. Sese</h4>
-			</div>
-		</div>
-		<div class="col-lg-4">
-			<div class="team-member">
 				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/EGLIN SIA.jpg" alt="..." />
 				<h4 class="text-light">Eglin Sia</h4>
-			</div>
-		</div>
-		<div class="col-lg-4">
-			<div class="team-member">
-				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/JOJIE TAMAYO.jpg" alt="..." />
-				<h4 class="text-light">Jojie G. Tamayo</h4>
 			</div>
 		</div>
 	</div>

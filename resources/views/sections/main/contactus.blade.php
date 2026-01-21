@@ -2,9 +2,10 @@
 	<div class="text-center">
 		<h2 class="section-heading text-uppercase text-white">Contact Us</h2>
 		<br/>
-		<h5 class="text-light text-uppercase">Ma. Lourdes Lilia Espinosa-Supnet</h5>
+		<h5 class="text-light text-uppercase">Maloli Espinosa-Supnet</h5>
 		<div class="text-light"><i class="fa fa-phone"></i>: +63 917 532 2157</div>
-		<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:memasbate@gmail.com">memasbate@gmail.com</a></div>
+		<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:rmi@rodeomasbate.ph">rmi@rodeomasbate.ph</a></div>
+		<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:pr.comm@rodeomasbate.ph">pr.comm@rodeomasbate.ph</a></div>
 	</div>
 	<div class="map-container">
 		<!-- Paste your Google Maps iframe code here -->
