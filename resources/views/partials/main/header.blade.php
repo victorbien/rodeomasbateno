@@ -4,7 +4,7 @@
 <meta name="author" content="" />
 <title>Rodeo Masbateño Inc. (RMI)</title>
 <!-- Favicon-->
-<link rel="icon" type="image/x-icon" href="assets/img/logos/rmi-logo-browser-icon.png" />
+<link rel="icon" type="image/x-icon" href="{{ asset('assets/img/logos/rmi-logo-browser-icon.png') }}" />
 <!-- Font Awesome icons (free version)-->
 <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
 <!-- Google fonts-->
@@ -15,4 +15,4 @@
 
 <link href="https://fonts.cdnfonts.com/css/cowboy-rope" rel="stylesheet">
 <!-- Core theme CSS (includes Bootstrap)-->
-<link href="css/styles.css" rel="stylesheet" />
+<link href="{{ asset('/css/styles.css') }}" rel="stylesheet" />

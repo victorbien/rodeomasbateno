@@ -56,12 +56,6 @@
 		</div>
 		<div class="col-lg-4">
 			<div class="team-member">
-				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/CYNTHIA CARANDANG.jpg" alt="..." />
-				<h4 class="text-light">Cynthia L. Carandang</h4>
-			</div>
-		</div>
-		<div class="col-lg-4">
-			<div class="team-member">
 				<img class="mx-auto rounded-circle" src="assets/img/boardoftrustees/EDWIN DU.jpg" alt="..." />
 				<h4 class="text-light">Edwin T. Du</h4>
 			</div>
