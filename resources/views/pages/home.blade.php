@@ -16,6 +16,9 @@
         <section class="page-section bg-dark" id="about">
 			@include('sections.main.boardoftrustees')
         </section>
+        <section class="page-section" id="about">
+			@include('sections.main.rodeo-vision')
+        </section>
         <!-- News Grid-->
         <section class="page-section bg-light" id="news">
             @include('sections.main.news')
