@@ -21,6 +21,9 @@
 		<section class="page-section bg-dark" id="rodeo-masbateno">
 			@include('sections.rodeofestival.vroom')
         </section>
+		<section class="page-section" id="rodeo-masbateno">
+			@include('sections.rodeofestival.vroom-officials')
+        </section>
 		@include('partials.rodeofestival.footer')
 		<!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
