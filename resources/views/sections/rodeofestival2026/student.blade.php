@@ -34,7 +34,7 @@
 	<div class="col-lg-3">
 		<div class="participating-team">
 			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/student/S_05.jpg" alt="..." />
-			<h4>Range Calves</h4>
+			<h4>ISU Range Calves</h4>
 			<p class="text-muted">Isabela State University - Main Campus</p>
 		</div>
 	</div>
@@ -105,14 +105,28 @@
 		<div class="participating-team">
 			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/student/S_15.jpg" alt="..." />
 			<h4>MVC HERDSMEN</h4>
-			<p class="text-muted">MVC HERDSMEN</p>
+			<p class="text-muted">Mountain View College</p>
 		</div>
 	</div>
 	<div class="col-lg-3">
 		<div class="participating-team">
+			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/student/S_16.jpg" alt="..." />
+			<h4>XU Bullriders</h4>
+			<p class="text-muted">Xavier University Ateneo de Cagayan</p>
+		</div>
+	</div>
+	<div class="col-lg-6">
+		<div class="participating-team">
 			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/student/blank.jpg" alt="..." />
+			<h4>West Side Rodeo Club</h4>
+			<p class="text-muted">Southwestern University-PHINMA</p>
+		</div>
+	</div>
+	<div class="col-lg-6">
+		<div class="participating-team">
+			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/student/S_18.jpg" alt="..." />
 			<h4>DEBESMSCAT</h4>
-			<p class="text-muted">DEBESMSCAT</p>
+			<p class="text-muted">Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology</p>
 		</div>
 	</div>
 </div>

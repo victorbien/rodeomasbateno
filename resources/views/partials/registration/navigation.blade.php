@@ -14,6 +14,8 @@
 					<ul class="dropdown-menu" aria-labelledby="navbarDropdownHover">
 						<li><a class="dropdown-item" href="{{ route('pages.rodeo-festival') }}">About The Rodeo Festival</a></li>
 						<li><a class="dropdown-item" href="{{ route('pages.rodeo-festival2026') }}">30th Rodeo Festival</a></li>
+						<li><a class="dropdown-item" href="{{ route('pages.rodeo-facade') }}">Rodeo Facade Guidelines</a></li>
+						<li><a class="dropdown-item" href="{{ route('pages.beef-cooking-contest') }}">Beef Cooking Contest Guidelines</a></li>
 						<li><a class="dropdown-item" href="{{ route('pages.registration') }}">Team Registration</a></li>
 						<li><a class="dropdown-item" href="{{ route('pages.pastwinners') }}">Past Rodeo Finals Winners</a></li>
 						<li><a class="dropdown-item" href="#">Gallery</a></li>

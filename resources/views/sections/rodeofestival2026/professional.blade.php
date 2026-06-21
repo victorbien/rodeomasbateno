@@ -75,15 +75,15 @@
 	</div>
 	<div class="col-lg-3">
 		<div class="participating-team">
-			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/professional/blank.jpg" alt="..." />
-			<h4>MASBATE TEAM #1</h4>
-			<p class="text-muted">Masbate</p>
+			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/professional/P_11.jpg" alt="..." />
+			<h4>CMU SAAS Alumni Rodeo Team</h4>
+			<p class="text-muted">Musuan, Bukidnon</p>
 		</div>
 	</div>
 	<div class="col-lg-3">
 		<div class="participating-team">
-			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/professional/blank.jpg" alt="..." />
-			<h4>MASBATE TEAM #1</h4>
+			<img class="mx-auto rounded-circle" src="assets/img/participatingteams/professional/P_12.jpg" alt="..." />
+			<h4>DEBESMSCAT</h4>
 			<p class="text-muted">Masbate</p>
 		</div>
 	</div>

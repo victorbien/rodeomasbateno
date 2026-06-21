@@ -8,6 +8,11 @@
 		<header class="masthead rodeofestival2026">
 			@include('sections.rodeofestival2026.banner')
 		</header>
+		
+		<section class="page-section bg-light">
+			@include('sections.rodeofestival2026.events')
+		</section>
+
 		<section class="page-section bg-light" id="participating-teams">
 			<div class="text-center">
 				<h2 class="section-heading">Participating Teams</h2>
@@ -22,7 +27,7 @@
 				<h2 class="section-heading">Schedule of Activities</h2>
 			</div>
 			<br/><br/>
-			<!-- @include('sections.rodeofestival2026.scheduleofactivities') -->
+			@include('sections.rodeofestival2026.scheduleofactivities')
 		</section>
 		@include('partials.rodeofestival2026.footer')
 		<!-- Bootstrap core JS-->

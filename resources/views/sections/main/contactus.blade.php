@@ -1,10 +1,23 @@
 <div class="container">
 	<div class="text-center">
 		<h2 class="section-heading text-uppercase text-white">Contact Us</h2>
+		<br/><br/>
+		<div class="text-center">
+			<h5 class="text-light text-uppercase">Maloli Espinosa-Supnet</h5>
+			<div class="text-light"><i>PR Committee Head</i></div>
+			<div class="text-light"><i class="fa fa-phone"></i>: +63 917 532 2157</div>
+			<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:rmi@rodeomasbate.ph">rmi@rodeomasbate.ph</a></div>
+			<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:pr.comm@rodeomasbate.ph">pr.comm@rodeomasbate.ph</a></div>
+		</div>
+		<br/><br/><br/>
+		<div class="text-center">
+			<h5 class="text-light text-uppercase">Rosanna Ramos</h5>
+			<div class="text-light"><i>Secretariat Committee Head</i></div>
+			<div class="text-light"><i class="fa fa-phone"></i>: +63 917 585 0209</div>
+			<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:rmi@rodeomasbate.ph">rmi@rodeomasbate.ph</a></div>
+			<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:secretariat@rodeomasbate.ph">secretariat@rodeomasbate.ph</a></div>
+		</div>
 		<br/>
-		<h5 class="text-light text-uppercase">Ma. Lourdes Lilia Espinosa-Supnet</h5>
-		<div class="text-light"><i class="fa fa-phone"></i>: +63 917 532 2157</div>
-		<div class="text-light"><i class="fa fa-envelope"></i>: <a href="mailto:memasbate@gmail.com">memasbate@gmail.com</a></div>
 	</div>
 	<div class="map-container">
 		<!-- Paste your Google Maps iframe code here -->

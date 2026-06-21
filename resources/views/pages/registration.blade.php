@@ -25,6 +25,10 @@
 				@include('sections.registration.officiatingteam')
 			</section>
 
+			<section class="page-section rules-and-regulations" id="officiating-team" style="max-width: 70%; margin-inline: auto;">
+				@include('sections.registration.generalguidelines')
+			</section>
+
 			<section class="page-section rules-and-regulations" id="scoring-system" style="max-width: 70%; margin-inline: auto;">
 				@include('sections.registration.scoringsystem')
 			</section>
