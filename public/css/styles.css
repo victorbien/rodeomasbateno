@@ -11561,7 +11561,7 @@ header.masthead .rodeofestival-heading {
 }
 
 .img-brand {
-  height: 2.75rem;
+  height: 17rem;
 }
 
 section#contact {
@@ -11636,4 +11636,18 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .contact-us-follow-us a svg{
   height: 2em;
+}
+
+.fb-post-wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    max-width: 500px; /* Facebook posts usually cap at 500px-750px width */
+    margin: auto;
+}
+
+.fb-post-wrapper iframe {
+    width: 100% !important;
+    height: 600px; /* Adjust height based on content */
+    border: none;
 }

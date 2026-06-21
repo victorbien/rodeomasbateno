@@ -1,35 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		@include('partials.rodeofestival2026.header')
+		@include('partials.rodeofacade.header')
 	</head>
     <body id="page-top" data-spy="scroll" data-target="#mainNav" data-offset="80" tabindex="0">
-		@include('partials.rodeofestival2026.navigation')
-		<header class="masthead rodeofestival2026">
-			@include('sections.rodeofestival2026.banner')
+		@include('partials.rodeofacade.navigation')
+		<header class="masthead rodeofacade">
+			@include('sections.rodeofacade.banner')
 		</header>
-		
-		<section class="page-section bg-light">
-			@include('sections.rodeofestival2026.events')
-		</section>
-
-		<section class="page-section bg-light" id="participating-teams">
-			<div class="text-center">
-				<h2 class="section-heading">Participating Teams</h2>
-			</div>
-			<br/><br/>
-			@include('sections.rodeofestival2026.professional')
-			<br/><br/>
-			@include('sections.rodeofestival2026.student')
-		</section>
-		<section class="page-section" id="schedule-of-activities">
-			<div class="text-center">
-				<h2 class="section-heading">Schedule of Activities</h2>
-			</div>
-			<br/><br/>
-			@include('sections.rodeofestival2026.scheduleofactivities')
-		</section>
-		@include('partials.rodeofestival2026.footer')
+		<!-- Rodeo Masbateño-->
+        <section class="page-section" id="rodeo-masbateno">
+			@include('sections.rodeofacade.aboutrodeofacade')
+        </section>
+		@include('partials.rodeofacade.footer')
 		<!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->

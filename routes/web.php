@@ -28,6 +28,15 @@ Route::get('/vroom', function () {
     return view('pages.vroom');
 })->name('pages.vroom');
 
+Route::get('/rodeofacade', function () {
+    return view('pages.rodeo-facade');
+})->name('pages.rodeo-facade');
+
+Route::get('/beefcooking', function () {
+    return view('pages.beef-cooking-contest');
+})->name('pages.beef-cooking-contest');
+
+
 Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [LoginController::class, 'login']);
 Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
